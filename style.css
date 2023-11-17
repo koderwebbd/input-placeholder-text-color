@@ -1,0 +1,6 @@
+:is(.klaviyo_field_group input)::placeholder {
+  color: rgba(18, 18, 18, 0.75);
+}
+:is(.klaviyo_email input)::placeholder {
+  color: rgba(18, 18, 18, 0.75);
+}
